@@ -1,0 +1,11 @@
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+seaborn==0.13.2
+scikit-learn==1.4.2
+catboost==1.2.3
+shap==0.45.0
+pykrige==1.7.1
+scipy==1.15.2
+geopandas==1.01
+pyproj==3.7.1
